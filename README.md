@@ -1,0 +1,2 @@
+# pentomino
+Pentomino puzzle solver
